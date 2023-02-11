@@ -1,0 +1,57 @@
+.peel i {
+    float: right;
+}
+.peel
+{
+    font-weight:bold;
+    border-radius:20px;
+    font-size: 30px;
+}
+img
+{
+    border-radius:20px;
+}
+#info h2
+{
+    font-size:15px;
+    font-weight:bold;
+}
+.peel1 
+{
+    font-size:30px;
+    font-weight:bold;
+    border-radius:20px;
+}
+.peel1 i 
+{
+    float:right;
+}
+#peel2 h2
+{
+    font-size:15px;
+    font-weight:bold;
+}
+#ps
+{
+    font-size:20px;
+}
+#w
+{
+    margin-bottom: 20px;
+}
+#con iframe
+{
+    width:100%;
+}
+#new
+{
+    margin-bottom:20px;
+}
+#con
+{
+    margin-top:20px;
+}
+center 
+{
+    margin-bottom:20px;
+}
